@@ -1,0 +1,8 @@
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\obj\Debug\reservaenrestaurant.csproj.AssemblyReference.cache
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\obj\Debug\reservaenrestaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\obj\Debug\reservaenrestaurant.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\bin\Debug\reservaenrestaurant.exe.config
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\bin\Debug\reservaenrestaurant.exe
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\bin\Debug\reservaenrestaurant.pdb
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\obj\Debug\reservaenrestaurant.exe
+C:\Users\sonia\OneDrive\Documentos\cursomclavero\reservaenrestaurant\reservaenrestaurant\obj\Debug\reservaenrestaurant.pdb
